@@ -25,6 +25,4 @@ This project is a **standalone, digitally controlled exhaust bypass system** for
 - Mechanical drawings, 3D models, and planning documents
 - Instructional video
 
-## License
 
-MIT
